@@ -1,0 +1,16 @@
+.Main{
+    width: 512px;
+    height: 512px;
+    background-color: bisque;
+    border: 4px solid #000000;
+    border-radius: 32px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Eyes{
+    padding: 48px;
+    border: 4px solid #000000;
+    border-radius: 128px;
+    background-color: #ffffff;
+}
